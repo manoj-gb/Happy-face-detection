@@ -5,7 +5,7 @@ This project demonstrates how to classify images using a Convolutional Neural Ne
 ## Project Structure
 
 - `happy-face.ipynb`: Contains Jupyter notebooks for data exploration and model training.
-- `images/`: Directory to store sample images for classification.
+- `happy-face.zip/`: Directory to store sample images for classification.
 - `model/`: Contains the trained model and related code.
 - `README.md`: This file.
 
